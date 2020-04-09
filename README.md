@@ -1,2 +1,2 @@
 # Explore-Services
-Display running services on hosts
+Some ways to display running services on hosts
